@@ -15,7 +15,7 @@ A summary of algorithm and problem-solving techniques using Python.
 ## How to Use
 Feel free to observe, comprehend, and contribute to this repository. However, if you wish to add content to this repository, please review the following rules.
 ### Commit message
-* Title
+* Title (head)
     * example
         ```bash
         Prefix: Brief summary (#IssueNumber)
@@ -24,6 +24,7 @@ Feel free to observe, comprehend, and contribute to this repository. However, if
     * The brief summary should be written in imperative mood without a period at the end.
     * The issue number is optional but can be included if the commit relates to a specific issue.
 * Content
+    * If the title contains all the necessary information, there is no need to write content.
     * The content of the commit message should focus on **‘what’ and ‘why’** rather than ‘how’.
 
 
