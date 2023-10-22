@@ -2,7 +2,7 @@
 A summary of algorithm and problem-solving techniques using Python.
 
 ## Table of Contents
-1. 
+1. Greedy Algorithm
 
 ## Project Overview
 * The start date of this project is Thursday, October 19, 2023.
