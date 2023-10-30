@@ -1,5 +1,6 @@
 # Algorithm Book
 A summary of algorithm and problem-solving techniques using Python.
+In this repository, the emphasis has been on code implementation, and for a more detailed explanation of the concepts, please refer to the Notion page ([link](https://hyoz.notion.site/Algorithm-Dictionary-9c25e49e73c9440ca5cfe07d8e6b13f1?pvs=4)).
 
 ## Table of Contents
 1. Greedy Algorithm
