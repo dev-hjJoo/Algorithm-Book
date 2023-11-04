@@ -12,6 +12,7 @@ In this repository, the emphasis has been on code implementation, and for a more
     2. Daily study of algorithms and documenting the content in this repository.
 * Content is organized in Jupyter notebook format, combining both code and explanations.
 * We use Python (version 3.9.16) as the primary programming language, and any necessary libraries will be introduced on the respective pages.
+* The internal code is not a direct copy of the book's code, but is code I wrote myself. I used the code in the book only to verify that my code was correct. (So, some of the code or explanation may be wrong. If you check it, please leave an issue!😉)
 
 ## How to Use
 Feel free to observe, comprehend, and contribute to this repository. However, if you wish to add content to this repository, please review the following rules.
