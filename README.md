@@ -4,6 +4,8 @@ In this repository, the emphasis has been on code implementation, and for a more
 
 ## Table of Contents
 1. Greedy Algorithm
+2. Implementation
+3. DFS/BFS
 
 ## Project Overview
 * The start date of this project is Thursday, October 19, 2023.
